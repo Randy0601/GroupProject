@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+Group Project: (Group B)
 
-You can use the [editor on GitHub](https://github.com/saifeedalal/GroupProject/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Team Members: Sandeep Komuravelli, Saifee Dalal, Ghassan Aleqabi
+Project Title: Analysis on aviation data 
+Description: This project focuses on analyzing the trends in domestic aviation in the US across multiple cities and multiple airlines.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Data:
+1)	Oct 2017
+2)	Jan 2018
+3)	April 2018
+4)	July 2018
 
-### Markdown
+https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236
+csv files
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3-5 initial research questions:
+1)	Analyzing on time performance visualization by cities, airlines, seasons, day of the week, time of the day
+2)	Cancelation and diversion trend by cities, airlines, seasons, day of the week, time of the day
+3)	Correlation of weather to flight delays
+Techniques & Tools:
+1)	Pandas
+2)	Matplotlib
+3)	Numpy
+4)	Scipy
+5)	Google api
+6)	Weather api
 
-```markdown
-Syntax highlighted code block
+Data shortcomings:
+1)	Not enough information on cancelation and diversion reasons
+2)	We are using one month of data to generalize the whole season
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saifeedalal/GroupProject/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
