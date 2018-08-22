@@ -4,11 +4,6 @@ Team Members: Sandeep Komuravelli, Saifee Dalal, Ghassan Aleqabi
 Project Title: Analysis on aviation data 
 Description: This project focuses on analyzing the trends in domestic aviation in the US across multiple cities and multiple airlines.
 
-Data:
-1)	Oct 2017
-2)	Jan 2018
-3)	April 2018
-4)	July 2018
 
 https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236
 csv files
